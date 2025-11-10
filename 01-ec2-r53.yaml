@@ -3,7 +3,7 @@
   connection: local
   vars:
     ami_id: ami-09c813fb71547fc4f
-    sg_id: sg-0338b6c26e88f5d75 # replace with your SG ID
+    sg_id: sg-02e659fe99970aeb8 # replace with your SG ID
     zone_id: "Z09725051OXQ4HS6KAP4" # replace with your ID
     domain_name: "gdaws86s.fun"
     # we can pass instances through command line using -e
